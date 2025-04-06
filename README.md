@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Khet2kart (Crop_Prediction)
 [![Khet2kart](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
 
@@ -43,3 +44,6 @@ $ python app.py
 * [Pratyush Garg](https://github.com/Pratyush2710)
 * [Somya Jain](https://github.com/jainsomya972)
 * [Abhay Gupta](https://github.com/abhaygupta5)
+=======
+# Project
+>>>>>>> 9ff62dc06d3b849ba29ae8de13b03da1408f332a
